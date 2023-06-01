@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MatthewKsc
 - 👀 I’m interested in programing area and database's
-- 🌱 I’m currently learning C# and .NET
+- 🌱 I’m currently working in Codefit as Software Developer
 - 💞️ I’m looking to collaborate on programing languages that I'm currently learning
 - 📫 How to reach me: via Emial, via LinkedIn
 
